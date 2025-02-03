@@ -1,13 +1,13 @@
 h1 {
   text-align: center;
-  color: #9ed0e6;
+  color: #33383a;
 }
 .background {
-  background-color: #82a7a6;
+  background-color: #121212;
 }
 
 h2 {
-  color: #9ed0e6;
+  color: #33383a;
   text-align: center;
   font-size: 50px;
 }
@@ -19,7 +19,14 @@ h2 {
   align-items: center;
   left: 47%;
 }
-.about {
+.about, p {
   text-align: center;
-  color: #9ed0e6;
+  color: #33383a;
+}
+.pro1{
+  
+  position: relative;
+  display: flex;
+  align-items: center;
+  left: 30%;
 }
